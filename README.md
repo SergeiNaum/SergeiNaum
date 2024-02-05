@@ -26,7 +26,7 @@ https://badges.pages.dev/
 
 ### Projects
 
-* [Tasks manager]((https://github.com/SergeiNaum/python-project-52) - Flexible task management web application. Made using the Django framework, Bootstrap and PostgreSQL database.
+* [Tasks_manager](https://github.com/SergeiNaum/python-project-52) - Flexible task management web application. Made using the Django framework, Bootstrap and PostgreSQL database.
 * [novoross_society](https://www.xn----dtbqacghklffbafxkhacee.xn--p1ai/"novoross_society") - Volunteer project, society of people with disabilities written using Django framework, Bootstrap and PostgreSQL and redis database
 * [Page Analyzer](https://github.com/SergeiNaum/python-project-83) - A web tool to check Serch Engine Optimization support of a given URL.
 * [Gendiff](https://github.com/SergeiNaum/python-project-50) - CLI tool to generate difference between 2 files.
