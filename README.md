@@ -1,5 +1,5 @@
 **My name is Sergey**
-I'm Junior Backend Developer
+I'm Junior Fullstack Developer
 
 ### About me:
 I'm 34 y.o. I've been studying in [Hexlet](https://ru.hexlet.io/u/user-bac37fce27980761) since 2023. Than I want to meet with Django, Redis, Docker. Also want to take part in open-source projects to get an experience.
