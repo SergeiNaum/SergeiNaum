@@ -2,7 +2,7 @@
 I'm Junior Backend Developer
 
 ### About me:
-I'm 34 y.o. I've been studying in [hexlet](https://ru.hexlet.io/my) since 2023. Than I want to meet with Django, Redis, Docker. Also want to take part in open-source projects to get an experience.
+I'm 34 y.o. I've been studying in [Hexlet](https://ru.hexlet.io/u/user-bac37fce27980761) since 2023. Than I want to meet with Django, Redis, Docker. Also want to take part in open-source projects to get an experience.
 
 This time I'm **open to job-offers** My CV - [Russian version](https://drive.google.com/file/d/1Zki0IL9A2RM9ma6_tOo6v3ZgDPZuz0j7/view?usp=drive_link)
 
