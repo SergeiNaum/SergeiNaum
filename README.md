@@ -35,7 +35,7 @@ https://badges.pages.dev/
 ### GitHub Stats
 GitHub Stats Terminal Style
 <p align='center'>
-  <img align="center" src="../GitHub Stats Terminal Style/github_stats.svg">
+  <img align="center" src="[../GitHub Stats Terminal Style/github_stats.svg](https://github.com/SergeiNaum/GitHub-Stats-Terminal-Style/blob/61bc183ff49783f906e48f7bed7cbc12696b408c/github_stats.svg)https://github.com/SergeiNaum/GitHub-Stats-Terminal-Style/blob/61bc183ff49783f906e48f7bed7cbc12696b408c/github_stats.svg">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=SergeiNaum)
