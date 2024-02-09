@@ -32,7 +32,8 @@ https://badges.pages.dev/
 * [Gendiff](https://github.com/SergeiNaum/python-project-50) - CLI tool to generate difference between 2 files.
 * [Brain Games](https://github.com/SergeiNaum/python-project-49) - СLI tool to play brain-games in bash.
 
-### GitHub Stats<p align="center" >
+### GitHub Stats
+<p align="center" >
   <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
     <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
