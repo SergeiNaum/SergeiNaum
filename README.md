@@ -33,9 +33,9 @@ https://badges.pages.dev/
 * [Brain Games](https://github.com/SergeiNaum/python-project-49) - СLI tool to play brain-games in bash.
 
 ### GitHub Stats
-
+GitHub Stats Terminal Style
 <p align='center'>
-  <img align="center" src="./github_stats.svg">
+  <img align="center" src="./GitHub Stats Terminal Style/github_stats.svg">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=SergeiNaum)
