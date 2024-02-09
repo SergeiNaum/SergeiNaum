@@ -33,9 +33,6 @@ https://badges.pages.dev/
 * [Brain Games](https://github.com/SergeiNaum/python-project-49) - СLI tool to play brain-games in bash.
 
 ### GitHub Stats
-GitHub Stats Terminal Style
-<p align='center'>
-  <img align="center" src="[../GitHub Stats Terminal Style/github_stats.svg](https://github.com/SergeiNaum/GitHub-Stats-Terminal-Style/blob/61bc183ff49783f906e48f7bed7cbc12696b408c/github_stats.svg)https://github.com/SergeiNaum/GitHub-Stats-Terminal-Style/blob/61bc183ff49783f906e48f7bed7cbc12696b408c/github_stats.svg">
-</p>
+![SergeiNaum's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeiNaum&show_icons=true&theme=transparent)
 
 ![](https://komarev.com/ghpvc/?username=SergeiNaum)
